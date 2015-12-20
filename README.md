@@ -1,7 +1,7 @@
 Freya
 =====
 
-Sublime Text / TextMate theme adapted from [Freya][freya], my favourite vim colour scheme. It's a lovely dark scheme with warm, low-contrast colours that looks like this:
+Sublime Text / TextMate color scheme adapted from [Freya][freya], my favourite vim colour scheme. It's a lovely dark scheme with warm, low-contrast colours that looks like this:
 
 ![Screenshot of Freya in MacVim](screenshot.png)
 
