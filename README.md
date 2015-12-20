@@ -5,6 +5,20 @@ Sublime Text / TextMate color scheme adapted from [Freya][freya], my favourite v
 
 ![Screenshot of Freya in MacVim](screenshot.png)
 
+Installation (using Package Control)
+====================================
+
+1. Open the command palette. (`cmd+shift+P` on Mac OS X, `ctrl+shift+P` on other OSs)
+2. Type `Install Package` and press enter.
+3. Search for `Freya` and press enter.
+
+After installation
+==================
+
+Activate the theme by adding the following key to your settings:
+
+`"color_scheme": "Packages/Freya/Freya.tmTheme"`
+
 Credits
 -------
 
